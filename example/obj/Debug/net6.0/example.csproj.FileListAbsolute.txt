@@ -1,0 +1,15 @@
+C:\Users\presh\source\repos\example\bin\Debug\net6.0\example.exe
+C:\Users\presh\source\repos\example\bin\Debug\net6.0\example.deps.json
+C:\Users\presh\source\repos\example\bin\Debug\net6.0\example.runtimeconfig.json
+C:\Users\presh\source\repos\example\bin\Debug\net6.0\example.dll
+C:\Users\presh\source\repos\example\bin\Debug\net6.0\example.pdb
+C:\Users\presh\source\repos\example\obj\Debug\net6.0\example.csproj.AssemblyReference.cache
+C:\Users\presh\source\repos\example\obj\Debug\net6.0\example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\presh\source\repos\example\obj\Debug\net6.0\example.AssemblyInfoInputs.cache
+C:\Users\presh\source\repos\example\obj\Debug\net6.0\example.AssemblyInfo.cs
+C:\Users\presh\source\repos\example\obj\Debug\net6.0\example.csproj.CoreCompileInputs.cache
+C:\Users\presh\source\repos\example\obj\Debug\net6.0\example.dll
+C:\Users\presh\source\repos\example\obj\Debug\net6.0\refint\example.dll
+C:\Users\presh\source\repos\example\obj\Debug\net6.0\example.pdb
+C:\Users\presh\source\repos\example\obj\Debug\net6.0\example.genruntimeconfig.cache
+C:\Users\presh\source\repos\example\obj\Debug\net6.0\ref\example.dll
