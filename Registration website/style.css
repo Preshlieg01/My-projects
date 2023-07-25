@@ -1,0 +1,26 @@
+body{
+    padding: 50px;
+    background: pink;
+}
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: left;
+    font-style: initial;
+    font-size: xx-large;
+}
+h2 {
+    color: rgb(0, 0, 0);
+    text-align: left;
+    font-style: initial;
+    font-size: larger;
+}
+.container{
+    max-width: 500px;
+    margin:0 auto;
+    padding: 30px;
+    align-content: center;
+    box-shadow: rgba(red, green, blue, alpha)0px 7px 29px 0pc;
+}
+.form-group{
+    margin-bottom: 30px;
+}
